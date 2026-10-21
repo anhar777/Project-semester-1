@@ -1,4 +1,4 @@
-# Project-semester-1-
+# Project semester 1
 ## Identitas Mahasiswa
 
 - **Nama:** Anharil Fahri Ramadani
